@@ -6,7 +6,7 @@
       <span v-if="store.concat2">{{ store.concat2 }}</span>
     </div>
     <div class="p-4 text-white text-right text-3xl bg-purple-800">
-      = <span class="text-orange-500">{{ store.$state.resultado }}</span>
+      = <span class="text-green-500">{{ store.$state.resultado }}</span>
     </div>
   </div>
 </template>

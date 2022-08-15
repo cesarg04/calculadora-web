@@ -27,6 +27,7 @@
           border-2 border-purple-700
           hover:border-2 hover:border-gray-500
           focus:outline-none
+          cursor-pointer
         "
         @click="clicked(item)"
       >
@@ -59,6 +60,7 @@
           border-2 border-purple-700
           hover:border-2 hover:border-gray-500
           focus:outline-none
+          cursor-pointer
         "
         @click="resultado()"
       >
